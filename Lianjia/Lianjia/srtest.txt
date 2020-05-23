@@ -1,0 +1,1 @@
+mysql> grant all on srtestdb.* to 'srtest'@'%' identified by 'srtest123' with grant option;
